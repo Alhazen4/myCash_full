@@ -6,7 +6,9 @@ Integration between FrontEnd and BackEnd stacks of myCash application
 
 To clone and run this application, you'll need [Git](https://git-scm.com/downloads) and [Flutter](https://flutter.dev/docs/get-started/install) installed on your computer. From your command line:
 
-## **first setup backned from here**
+<br>
+
+## **Technology**
 
 - [Front End](https://github.com/Cybernonk404/myCash_full/tree/main/front)
 - [Back End](https://github.com/Cybernonk404/myCash_full/tree/main/back)
