@@ -1,6 +1,14 @@
 # myCash_full
 Integration between FrontEnd and BackEnd stacks of myCash application
 
+## **Demo**
+
+<p align="center">
+<img src="front/screenshots/logo-2.png" alt="logo" width="30%"/>
+
+<h3 align="center"><a href="https://drive.google.com/file/d/1nXXpQTNkDsy7WRJoW1-ZhYsPJjn_nrm3/view?usp=share_link">Download the release APK</a></h3>
+</p>
+
 
 ## **How to run?**
 
