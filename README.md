@@ -23,6 +23,31 @@ To clone and run this application, you'll need [Git](https://git-scm.com/downloa
 
 <br>
 
+## **Image Gallery**
+
+<hr/>
+
+<br>
+
+
+<p align="center">
+<img src="front/screenshots/Splash_Screen.jpg" alt="Gallery Image" width="30%" />
+<img src="front/screenshots/Introducing_screen_1.jpg" alt="Gallery Image" width="30%" />
+<img src="front/screenshots/Introducing_screen_2.jpg" alt="Gallery Image" width="30%" />
+<img src="front/screenshots/Introducing_screen_3.jpg" alt="Gallery Image" width="30%" />
+<img src="front/screenshots/Login_screen.jpg" alt="Gallery Image" width="30%" />
+<img src="front/screenshots/Register_Screen.jpg" alt="Gallery Image" width="30%" />
+<img src="front/screenshots/Home_Screen_Income.jpg" alt="Gallery Image" width="30%" />
+<img src="front/screenshots/Home_screen_expense.jpg" alt="Gallery Image" width="30%" />
+<img src="front/screenshots/Transaction_income.jpg" alt="Gallery Image" width="30%" />
+<img src="front/screenshots/Statistic_screen.jpg" alt="Gallery Image" width="30%" />
+<img src="front/screenshots/article_screen.jpg" alt="Gallery Image" width="30%" />
+<img src="front/screenshots/Screenshot_2022-12-19_224439.jpg" alt="Gallery Image" width="30%" />
+
+
+</p>
+<br>
+
 ## **first setup backned from here**
 
 [Backend setup](https://github.com/Ansh-Rathod/Musive-Backend)
