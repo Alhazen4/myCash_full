@@ -6,7 +6,7 @@ Integration between FrontEnd and BackEnd stacks of myCash application
 
 To clone and run this application, you'll need [Git](https://git-scm.com/downloads) and [Flutter](https://flutter.dev/docs/get-started/install) installed on your computer. From your command line:
 
-### first setup backned from here
+## **first setup backned from here**
 
 [Backend setup](https://github.com/Ansh-Rathod/Musive-Backend)
 you can setup backend on heroku. i have attached some steps for setup in readme file of backend.
@@ -37,7 +37,7 @@ $ go run .
 ```
 
 
-### second setup frontend from here
+## **second setup frontend from here**
 
 ### Go into the repository
 
