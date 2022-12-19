@@ -17,3 +17,38 @@ for backend setup [here](https://github.com/Ansh-Rathod/Musive-Backend)
 - [timezone](https://pub.dev/packages/timezone)
 - [flutter_native_timezone](https://pub.dev/packages/flutter_native_timezone)
 - [d_chart](https://pub.dev/packages/d_chart)
+
+
+## **How to run?**
+
+To clone and run this application, you'll need [Git](https://git-scm.com/downloads) and [Flutter](https://flutter.dev/docs/get-started/install) installed on your computer. From your command line:
+
+### first setup backned from here
+
+[Backend setup](https://github.com/Ansh-Rathod/Musive-Backend)
+you can setup backend on heroku. i have attached some steps for setup in readme file of backend.
+and edit api/url.dart file put your own url in baseUrl variable without "https://"
+
+### Clone this repository
+
+```bash
+$ git clone https://github.com/Ansh-Rathod/Flutter-Musive-app.git
+```
+
+### Go into the repository
+
+```bash
+$ cd Flutter-Musive-app
+```
+
+### Install dependencies
+
+```bash
+$ flutter pub get
+```
+
+### Run the app
+
+```bash
+$ flutter run
+```
