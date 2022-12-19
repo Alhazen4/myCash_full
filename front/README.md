@@ -4,6 +4,33 @@ Full-stack music player app is written in flutter and dart using node.js music A
 for backend setup [here](https://github.com/Ansh-Rathod/Musive-Backend)
 
 
+## **Image Gallery**
+
+<hr/>
+
+<br>
+
+
+<p align="center">
+<img src="screenshots/Splash_Screen.jpg" alt="Gallery Image" width="30%" />
+<img src="screenshots/Introducing_screen_1.jpg" alt="Gallery Image" width="30%" />
+<img src="screenshots/Introducing_screen_2.jpg" alt="Gallery Image" width="30%" />
+<img src="screenshots/Introducing_screen_3.jpg" alt="Gallery Image" width="30%" />
+<img src="screenshots/Login_screen.jpg" alt="Gallery Image" width="30%" />
+<img src="screenshots/Register_Screen.jpg" alt="Gallery Image" width="30%" />
+<img src="screenshots/Home_Screen_Income.jpg" alt="Gallery Image" width="30%" />
+<img src="screenshots/Home_screen_expense.jpg" alt="Gallery Image" width="30%" />
+<img src="screenshots/Transaction_income.jpg" alt="Gallery Image" width="30%" />
+<img src="screenshots/Statistic_screen.jpg" alt="Gallery Image" width="30%" />
+<img src="screenshots/article_screen.jpg" alt="Gallery Image" width="30%" />
+<img src="screenshots/Screenshot_2022-12-19_224439.jpg" alt="Gallery Image" width="30%" />
+
+
+</p>
+<hr/>
+
+
+
 ## **Dependencies**
 
 - [cupertino_icons](https://pub.dev/packages/cupertino_icons)
