@@ -8,6 +8,13 @@ To clone and run this application, you'll need [Git](https://git-scm.com/downloa
 
 ## **first setup backned from here**
 
+- [Front End](https://github.com/Cybernonk404/myCash_full/tree/main/front)
+- [Back End](https://github.com/Cybernonk404/myCash_full/tree/main/back)
+
+<br>
+
+## **first setup backned from here**
+
 [Backend setup](https://github.com/Ansh-Rathod/Musive-Backend)
 you can setup backend on heroku. i have attached some steps for setup in readme file of backend.
 and edit api/url.dart file put your own url in baseUrl variable without "https://"
