@@ -1,7 +1,6 @@
 # My Cash FE(Flutter)
 
-Full-stack music player app is written in flutter and dart using node.js music API. Fully Functional music player with UI like Spotify app. Added 500+ royalty-free music and information about artists. Application users can make their own playlist or collect liked songs.
-for backend setup [here](https://github.com/Ansh-Rathod/Musive-Backend)
+Full-stack Financial Management app is written in flutter and dart using go API. 
 
 
 ## **Image Gallery**
@@ -65,7 +64,7 @@ $ git clone https://github.com/Ansh-Rathod/Flutter-Musive-app.git
 ### Go into the repository
 
 ```bash
-$ cd Flutter-Musive-app
+$ cd front
 ```
 
 ### Install dependencies
