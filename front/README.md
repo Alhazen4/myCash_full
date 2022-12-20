@@ -65,7 +65,7 @@ $ git clone https://github.com/Ansh-Rathod/Flutter-Musive-app.git
 ### Go into the repository
 
 ```bash
-$ cd Flutter-Musive-app
+$ cd front
 ```
 
 ### Install dependencies
